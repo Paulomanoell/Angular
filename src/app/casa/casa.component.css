@@ -1,0 +1,15 @@
+div{
+    width: 100px;
+    height: 90px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+
+img{
+    width: 80px;
+    height: 80px;
+}
